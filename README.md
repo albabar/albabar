@@ -29,6 +29,8 @@ Visit [babar.im](https://www.babar.im) for in-depth technical articles and tutor
 
 ### Medium [@HangryDev](https://medium.com/@HangryDev)
 <!-- MEDIUM-POST-LIST:START -->
+- [Understanding Email Validation: MX Records vs SMTP Verification](https://medium.com/@HangryDev/understanding-email-validation-mx-records-vs-smtp-verification-9d1cb234fa87?source=rss-871bcf2bf088------2)
+- [Why Email List Validation is Critical for Your Marketing Success](https://medium.com/@HangryDev/why-email-list-validation-is-critical-for-your-marketing-success-cee493caafd3?source=rss-871bcf2bf088------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 ## 💼 Services
