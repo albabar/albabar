@@ -4,10 +4,10 @@ I'm a Product Engineer & Technical Architect helping businesses scale through mo
 
 ## 🛠️ Technical Expertise
 
-- **Backend:** Ruby on Rails, API Design, Database Optimization
+- **Backend:** Ruby on Rails, Nodejs, API Design, Database Optimization
 - **Frontend:** React, Modern JavaScript, Progressive Web Apps
 - **Architecture:** System Design, Microservices, Performance Tuning
-- **DevOps:** Kamal, Docker, Cloud Infrastructure
+- **DevOps:** Docker, Cloud Infrastructure
 
 ## 🚀 What I Do
 
@@ -19,18 +19,17 @@ I'm a Product Engineer & Technical Architect helping businesses scale through mo
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 <!-- This section can be automated with GitHub Actions to fetch your latest blog posts -->
 I write about software development, system design, and tech insights on multiple platforms:
 
 ### Personal Blog
 Visit [babar.im](https://www.babar.im) for in-depth technical articles and tutorials.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Medium [@HangryDev](https://medium.com/@HangryDev)
-<a href="https://medium.com/@HangryDev" target="_blank">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=HangryDev&limit=4" alt="Latest Medium Blogs">
-</a>
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
 
 ## 💼 Services
 
