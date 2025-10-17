@@ -25,11 +25,11 @@ I write about software development, system design, and tech insights on multiple
 ### Personal Blog
 Visit [babar.im](https://www.babar.im) for in-depth technical articles and tutorials.
 <!-- BLOG-POST-LIST:START -->
+- [How to Expose Multiple Ports in Kamal Accessories](/blog/sysadmin/how-to-expose-multiple-ports-in-kamal-accessories.html)
 - [How to use git without pager](/blog/compu-tips/how-to-use-git-without-pager.html)
 - [My Password Manager Migration Story](/blog/compu/my-password-manager-migration-story.html)
 - [How to use FontAwesome 5/6 with Rails 7 and Propshaft](/blog/programming/ruby/how-to-use-fontawesome-5-6-with-rails-7-and-propshaft.html)
 - [Announcement: Adda with Babar](/blog/intro/announcement-adda-with-babar.html)
-- [Read any YAML config file in Rails with ease](/blog/programming/ruby/read-any-yaml-config-file-in-rails-with-ease.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Medium [@HangryDev](https://medium.com/@HangryDev)
