@@ -27,9 +27,9 @@ Visit [babar.im](https://www.babar.im) for in-depth technical articles and tutor
 <!-- BLOG-POST-LIST:START -->
 - [When you try calling stringify_values on a Ruby Hash](/blog/programming/ruby/when-you-try-calling-stringifyvalues-on-a-ruby-hash.html)
 - [How to Expose Multiple Ports in Kamal Accessories](/blog/sysadmin/how-to-expose-multiple-ports-in-kamal-accessories.html)
+- [কেন বাংলাদেশের টেক ইন্ডাস্ট্রিতে ভালো ম্যানেজারের এত অভাব?](/blog/random/why-such-shortage-of-good-tech-managers-in-bangladesh.html)
 - [How to use git without pager](/blog/compu-tips/how-to-use-git-without-pager.html)
 - [My Password Manager Migration Story](/blog/compu/my-password-manager-migration-story.html)
-- [How to use FontAwesome 5/6 with Rails 7 and Propshaft](/blog/programming/ruby/how-to-use-fontawesome-5-6-with-rails-7-and-propshaft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Medium [@HangryDev](https://medium.com/@HangryDev)
