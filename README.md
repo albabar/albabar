@@ -25,11 +25,11 @@ I write about software development, system design, and tech insights on multiple
 ### Personal Blog
 Visit [babar.im](https://www.babar.im) for in-depth technical articles and tutorials.
 <!-- BLOG-POST-LIST:START -->
+- [Kamal Runs Everything Now &lpar;Almost&rpar;](/blog/programming/kamal-runs-everything-now.html)
+- [বাংলাদেশি ফাউন্ডারদের এখন গালফের দিকে তাকানো উচিত](/blog/startups/bangladeshi-founders-should-look-to-the-gulf.html)
 - [When you try calling stringify_values on a Ruby Hash](/blog/programming/ruby/when-you-try-calling-stringifyvalues-on-a-ruby-hash.html)
 - [How to Expose Multiple Ports in Kamal Accessories](/blog/sysadmin/how-to-expose-multiple-ports-in-kamal-accessories.html)
 - [কেন বাংলাদেশের টেক ইন্ডাস্ট্রিতে ভালো ম্যানেজারের এত অভাব?](/blog/random/why-such-shortage-of-good-tech-managers-in-bangladesh.html)
-- [How to use git without pager](/blog/compu-tips/how-to-use-git-without-pager.html)
-- [My Password Manager Migration Story](/blog/compu/my-password-manager-migration-story.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Medium [@HangryDev](https://medium.com/@HangryDev)
